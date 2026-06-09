@@ -1,0 +1,6 @@
+{
+  "name": "Company Product Finder",
+  "description": "Instantly search and discover any company's products. Features autocomplete, smart categorization, advanced filters/sorting, dynamic Gemini-powered descriptions, and local favorites tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
